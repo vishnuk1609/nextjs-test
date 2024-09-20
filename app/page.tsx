@@ -38,7 +38,9 @@ export default function Home() {
         enim dolores eveniet veritatis, illo qui facilis atque libero consequuntur, cum exercitationem. Eaque obcaecati
         culpa repellendus minus facilis, inventore aperiam accusamus nisi recusandae quasi assumenda magnam doloribus
         maiores unde dolorum eligendi maxime saepe officiis. Dolor assumenda earum fugit ipsa perferendis? Nesciunt ea
-        natus cum adipisci, velit commodi sit ad. Quidem qui debitis dolore tenetur nemo error.
+        natus cum adipisci, velit commodi sit ad. Quidem qui debitis dolore tenetur nemo error. Lorem ipsum dolor sit
+        amet consectetur adipisicing elit. Architecto sit, sint ex beatae optio quia adipisci saepe, esse nobis commodi
+        expedita, illum eos ad. Facilis.
       </div>
     </main>
   );
